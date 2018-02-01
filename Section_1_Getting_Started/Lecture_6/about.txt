@@ -1,0 +1,1 @@
+creating first program on mac and accesing it from the terminal
