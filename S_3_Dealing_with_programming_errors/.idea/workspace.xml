@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18f98473-c147-4716-9849-d33ea6ae8995" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/S_20_Runtime_Errors/runtime_errors.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/S_23_Exception_Handling_in_Python/exception_handling.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +15,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/S_3_Dealing_with_programming_errors$runtime_errors.coverage" NAME="runtime_errors Coverage Results" MODIFIED="1517835918760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/S_20_Runtime_Errors" />
     <SUITE FILE_PATH="coverage/S_3_Dealing_with_programming_errors$script1.coverage" NAME="script1 Coverage Results" MODIFIED="1517835657576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/S_19_Syntax_Errors" />
+    <SUITE FILE_PATH="coverage/S_3_Dealing_with_programming_errors$exception_handling.coverage" NAME="exception_handling Coverage Results" MODIFIED="1517839074231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/S_23_Exception_Handling_in_Python" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -28,11 +29,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="runtime_errors.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="runtime_errors.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/S_20_Runtime_Errors/runtime_errors.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exception_handling.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/S_23_Exception_Handling_in_Python/exception_handling.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -49,6 +60,8 @@
         <option value="$PROJECT_DIR$/S_19_Syntax_Errors/script1.py" />
         <option value="$PROJECT_DIR$/S_19_Syntax_Errors/syntax_errors.py" />
         <option value="$PROJECT_DIR$/S_20_Runtime_Errors/runtime_errors.py" />
+        <option value="$PROJECT_DIR$/S_21_Fixing_Difficult_Errors/fixing_difficult_errors.py" />
+        <option value="$PROJECT_DIR$/S_23_Exception_Handling_in_Python/exception_handling.py" />
       </list>
     </option>
   </component>
@@ -124,7 +137,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.runtime_errors">
+  <component name="RunManager" selected="Python.exception_handling">
+    <configuration name="exception_handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/S_23_Exception_Handling_in_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="S_3_Dealing_with_programming_errors" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S_23_Exception_Handling_in_Python/exception_handling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="runtime_errors" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,14 +195,16 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.script1" />
       <item index="1" class="java.lang.String" itemvalue="Python.runtime_errors" />
+      <item index="2" class="java.lang.String" itemvalue="Python.exception_handling" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.runtime_errors" />
-        <item index="1" class="java.lang.String" itemvalue="Python.script1" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.exception_handling" />
+        <item index="1" class="java.lang.String" itemvalue="Python.runtime_errors" />
+        <item index="2" class="java.lang.String" itemvalue="Python.script1" />
       </list>
     </recent_temporary>
   </component>
@@ -195,16 +229,24 @@
       <option name="project" value="LOCAL" />
       <updated>1517835193546</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="section 20">
+      <created>1517838437851</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517838437851</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="978" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25579977" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -258,7 +300,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="section 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="section 19" />
+    <MESSAGE value="section 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -285,6 +328,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S_21_Fixing_Difficult_Errors/fixing_difficult_errors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S_23_Exception_Handling_in_Python/exception_handling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding />
         </state>
       </provider>
