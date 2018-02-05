@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18f98473-c147-4716-9849-d33ea6ae8995" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../S_2_Variables_Datatypes_Functions/L_17_Tuples/script1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../S_2_Variables_Datatypes_Functions/S_18_Dictionaries/script1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/S_3_Dealing_with_programming_errors.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/S_19_Syntax_Errors/syntax_errors.py" />
-      <change beforePath="$PROJECT_DIR$/../S_2_Variables_Datatypes_Functions/L_16_Lists/script1.py" afterPath="$PROJECT_DIR$/../S_2_Variables_Datatypes_Functions/L_16_Lists/script1.py" />
-      <change beforePath="$PROJECT_DIR$/../Section_1_Getting_Started/Lecture_6/myProgram.py" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/S_20_Runtime_Errors/runtime_errors.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,15 +13,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/S_3_Dealing_with_programming_errors$script1.coverage" NAME="script1 Coverage Results" MODIFIED="1517834927937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/S_19_Syntax_Errors" />
+    <SUITE FILE_PATH="coverage/S_3_Dealing_with_programming_errors$runtime_errors.coverage" NAME="runtime_errors Coverage Results" MODIFIED="1517835918760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/S_20_Runtime_Errors" />
+    <SUITE FILE_PATH="coverage/S_3_Dealing_with_programming_errors$script1.coverage" NAME="script1 Coverage Results" MODIFIED="1517835657576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/S_19_Syntax_Errors" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="syntax_errors.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="syntax_errors.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/S_19_Syntax_Errors/syntax_errors.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+            <state relative-caret-position="102">
+              <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runtime_errors.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/S_20_Runtime_Errors/runtime_errors.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -45,6 +48,7 @@
       <list>
         <option value="$PROJECT_DIR$/S_19_Syntax_Errors/script1.py" />
         <option value="$PROJECT_DIR$/S_19_Syntax_Errors/syntax_errors.py" />
+        <option value="$PROJECT_DIR$/S_20_Runtime_Errors/runtime_errors.py" />
       </list>
     </option>
   </component>
@@ -89,6 +93,11 @@
               <item name="S_3_Dealing_with_programming_errors" type="462c0819:PsiDirectoryNode" />
               <item name="S_19_Syntax_Errors" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="S_3_Dealing_with_programming_errors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S_3_Dealing_with_programming_errors" type="462c0819:PsiDirectoryNode" />
+              <item name="S_20_Runtime_Errors" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -115,7 +124,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.runtime_errors">
+    <configuration name="runtime_errors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/S_20_Runtime_Errors" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="S_3_Dealing_with_programming_errors" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S_20_Runtime_Errors/runtime_errors.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="script1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,9 +163,14 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.script1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.runtime_errors" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.script1" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.runtime_errors" />
+        <item index="1" class="java.lang.String" itemvalue="Python.script1" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +188,14 @@
       <option name="presentableId" value="Default" />
       <updated>1517833167052</updated>
     </task>
+    <task id="LOCAL-00001" summary="section 19">
+      <created>1517835193546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517835193546</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -215,6 +256,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="section 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 19" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -230,8 +275,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/S_19_Syntax_Errors/syntax_errors.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        <state relative-caret-position="102">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S_20_Runtime_Errors/runtime_errors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
