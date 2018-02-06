@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4df793c-5d6f-4c89-856d-1ac795a23028" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/L_50_For_loop_with_multiple_lists/for_loop_multiple_lists.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/L_51_Exercise_functions_conditionals_and_loops/exercise_functions_conditionals_and_loops.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/L_49_While_Loop/while_loop.py" afterPath="$PROJECT_DIR$/L_49_While_Loop/while_loop.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,9 +18,21 @@
     <SUITE FILE_PATH="coverage/S_5_Loops_and_user_input$the_for_loop.coverage" NAME="the_for_loop Coverage Results" MODIFIED="1517872162465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/S_43_The_For_Loop" />
     <SUITE FILE_PATH="coverage/S_5_Loops_and_user_input$while_loop.coverage" NAME="while_loop Coverage Results" MODIFIED="1517904174818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L_49_While_Loop" />
     <SUITE FILE_PATH="coverage/S_5_Loops_and_user_input$exercise_simple_for_loop.coverage" NAME="exercise_simple_for_loop Coverage Results" MODIFIED="1517872759027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L_44_Exercise_Simple_For_loop" />
+    <SUITE FILE_PATH="coverage/S_5_Loops_and_user_input$for_loop_multiple_lists.coverage" NAME="for_loop_multiple_lists Coverage Results" MODIFIED="1517912718532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L_50_For_loop_with_multiple_lists" />
+    <SUITE FILE_PATH="coverage/S_5_Loops_and_user_input$exercise_functions_conditionals_and_loops.coverage" NAME="exercise_functions_conditionals_and_loops Coverage Results" MODIFIED="1517912870711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L_51_Exercise_functions_conditionals_and_loops" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="exercise_functions_conditionals_and_loops.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/L_51_Exercise_functions_conditionals_and_loops/exercise_functions_conditionals_and_loops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="exercise_simple_for_loop.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/L_44_Exercise_Simple_For_loop/exercise_simple_for_loop.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -41,11 +53,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="while_loop.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="while_loop.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/L_49_While_Loop/while_loop.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="for_loop_multiple_lists.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L_50_For_loop_with_multiple_lists/for_loop_multiple_lists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -63,6 +85,8 @@
         <option value="$PROJECT_DIR$/L_44_Exercise_Simple_For_loop/exercise_simple_for_loop.py" />
         <option value="$PROJECT_DIR$/L_48_User_input/user_input.py" />
         <option value="$PROJECT_DIR$/L_49_While_Loop/while_loop.py" />
+        <option value="$PROJECT_DIR$/L_50_For_loop_with_multiple_lists/for_loop_multiple_lists.py" />
+        <option value="$PROJECT_DIR$/L_51_Exercise_functions_conditionals_and_loops/exercise_functions_conditionals_and_loops.py" />
       </list>
     </option>
   </component>
@@ -72,9 +96,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="840" />
     <option name="y" value="22" />
-    <option name="width" value="1680" />
+    <option name="width" value="840" />
     <option name="height" value="978" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -124,6 +149,16 @@
               <item name="S_5_Loops_and_user_input" type="462c0819:PsiDirectoryNode" />
               <item name="L_49_While_Loop" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="S_5_Loops_and_user_input" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S_5_Loops_and_user_input" type="462c0819:PsiDirectoryNode" />
+              <item name="L_50_For_loop_with_multiple_lists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="S_5_Loops_and_user_input" type="b2602c69:ProjectViewProjectNode" />
+              <item name="S_5_Loops_and_user_input" type="462c0819:PsiDirectoryNode" />
+              <item name="L_51_Exercise_functions_conditionals_and_loops" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -146,7 +181,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.while_loop">
+  <component name="RunManager" selected="Python.exercise_functions_conditionals_and_loops">
+    <configuration name="exercise_functions_conditionals_and_loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L_51_Exercise_functions_conditionals_and_loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="S_5_Loops_and_user_input" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L_51_Exercise_functions_conditionals_and_loops/exercise_functions_conditionals_and_loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="exercise_simple_for_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,20 +220,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="the_for_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="for_loop_multiple_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/S_43_The_For_Loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L_50_For_loop_with_multiple_lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="S_5_Loops_and_user_input" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S_43_The_For_Loop/the_for_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L_50_For_loop_with_multiple_lists/for_loop_multiple_lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,18 +277,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.the_for_loop" />
-      <item index="1" class="java.lang.String" itemvalue="Python.exercise_simple_for_loop" />
-      <item index="2" class="java.lang.String" itemvalue="Python.user_input" />
-      <item index="3" class="java.lang.String" itemvalue="Python.while_loop" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.exercise_simple_for_loop" />
+      <item index="1" class="java.lang.String" itemvalue="Python.user_input" />
+      <item index="2" class="java.lang.String" itemvalue="Python.while_loop" />
+      <item index="3" class="java.lang.String" itemvalue="Python.for_loop_multiple_lists" />
+      <item index="4" class="java.lang.String" itemvalue="Python.exercise_functions_conditionals_and_loops" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.while_loop" />
-        <item index="1" class="java.lang.String" itemvalue="Python.user_input" />
-        <item index="2" class="java.lang.String" itemvalue="Python.exercise_simple_for_loop" />
-        <item index="3" class="java.lang.String" itemvalue="Python.the_for_loop" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.exercise_functions_conditionals_and_loops" />
+        <item index="1" class="java.lang.String" itemvalue="Python.for_loop_multiple_lists" />
+        <item index="2" class="java.lang.String" itemvalue="Python.while_loop" />
+        <item index="3" class="java.lang.String" itemvalue="Python.user_input" />
+        <item index="4" class="java.lang.String" itemvalue="Python.exercise_simple_for_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -252,10 +308,18 @@
       <option name="presentableId" value="Default" />
       <updated>1517871962952</updated>
     </task>
+    <task id="LOCAL-00001" summary="lecture 49">
+      <created>1517904227821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517904227821</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="978" extended-state="6" />
+    <frame x="840" y="22" width="840" height="978" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -264,7 +328,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.320802" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -285,6 +349,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lecture 49" />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture 49" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -323,14 +391,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/L_44_Exercise_Simple_For_loop/exercise_simple_for_loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/L_48_User_input/user_input.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -343,6 +403,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L_50_For_loop_with_multiple_lists/for_loop_multiple_lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L_44_Exercise_Simple_For_loop/exercise_simple_for_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L_51_Exercise_functions_conditionals_and_loops/exercise_functions_conditionals_and_loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding />
         </state>
       </provider>
