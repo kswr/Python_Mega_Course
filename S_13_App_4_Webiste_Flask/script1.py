@@ -1,4 +1,4 @@
-from flask import Flask  # importing Flask
+from flask import Flask, render_template
 
 app = Flask(__name__)  # initializing Flask
 
@@ -9,12 +9,14 @@ app = Flask(__name__)  # initializing Flask
 
 @app.route('/')  # it's actually localhost:5000
 def home():
-    return "Home content goes here"
+    # return "Home content goes here"
+    return render_template("home.html")
 
 
 @app.route('/about/')
 def about():
-    return "About"
+    # return "About"
+    return render_template("about.html")
 
 
 if __name__ == "__main__":
